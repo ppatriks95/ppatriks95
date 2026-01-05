@@ -1,5 +1,5 @@
 # 💫 About Me:
-🔭 I’m currently working on<br>👯 I’m looking to collaborate on<br>🤝 I’m looking for help with<br>🌱 I’m currently learning<br>💬 Ask me about<br>⚡ Fun fact
+🔭 I’m currently working on improving knownledge and getting certificates for various stacks important as Role as a Software Developer. Also I´m building my own Projects here.<br>👯 I’m looking to collaborate on innovative Projects<br>🤝 I’m looking for improving my knownledge in other Fields<br>🌱 I’m currently learning Cybersecurity, Python and Machine Learning<br>
 
 
 ## 🌐 Socials:
